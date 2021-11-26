@@ -29,7 +29,7 @@
                         <small>
                             by
                             <b-link class="text-warning" href="#" target="_blank">
-                                Token Center
+                                Beagle Token Launcher
                             </b-link>
                         </small>
                     </b-list-group-item>
